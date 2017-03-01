@@ -1,0 +1,4 @@
+Django<1.11
+django-crispy-forms
+django-filter
+djangorestframework<4
